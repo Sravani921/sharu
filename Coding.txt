@@ -9,6 +9,19 @@ class Main {
     int sum = first + second;
     System.out.println(first + " + " + second + " = "  + sum);
   }
+#feature202 worked by vuppala sravani on google applications on oct.2023
+public class QuotientRemainder {
+
+  public static void main(String[] args) {
+
+    int dividend = 25, divisor = 4;
+
+    int quotient = dividend / divisor;
+    int remainder = dividend % divisor;
+
+    System.out.println("Quotient = " + quotient);
+    System.out.println("Remainder = " + remainder);
+  }
 #feature201 worked by sravani on google applications on oct.2023
  
 }public class MultiplyTwoNumbers {
@@ -23,4 +36,5 @@ class Main {
         System.out.println("The product is: " + product);
     }
 }
+
 
